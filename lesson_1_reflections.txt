@@ -1,0 +1,1 @@
+Today I learned about the diff command in the git bash. This should be useful for identifying changes you've made to a previous project, assessing the product changes a given code change produces, and simplifying the task of debugging. 
